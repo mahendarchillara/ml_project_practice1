@@ -1,3 +1,3 @@
 ## End to End Macine Learning
 
-AWS DEPLOYMENT latest
+AWS DEPLOYMENT LATEST
